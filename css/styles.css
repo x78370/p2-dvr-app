@@ -1,0 +1,58 @@
+li {
+	font-family: 'Gafata', sans-serif;
+	list-style: none;
+}
+
+h1, p {
+	font-family: 'Gafata', sans-serif;
+	color: #ff6600;
+}
+.red{
+	background:#a10022;
+}
+
+
+input {
+	padding-left: 7px;
+	padding-top: 7px;
+	padding-right: 7px;
+	padding-bottom: 7px;
+
+}
+
+.breathe {
+	padding-top: 15px;
+	padding-bottom: 15px;
+		margin-left: 45px;
+
+}
+.menu-icon {
+	background: #7DB1FF;
+}
+
+body {
+font-family: 'Gafata', sans-serif;
+	background-color: #424242;
+	width: 320px;
+}
+.tab-bar-section {
+	background: #424242;
+	
+}
+
+.title {
+	color: #FFFFFF !important;
+}
+
+.shadow {
+  -moz-box-shadow:    5px 5px 6px 0px #a10022
+;
+  -webkit-box-shadow: 5px 5px 6px 0px #a10022
+;
+  box-shadow:         5px 5px 6px 0px #a10022
+;
+}
+
+.spacer {
+	margin: 20px;
+}
